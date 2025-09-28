@@ -129,7 +129,6 @@ We are open to suggestions on how to improve.
 
 ++++
 
-
 == All Docs by Name
 
 // From https://ongclement.com/blog/github-pages-indexing-directory-copy 
