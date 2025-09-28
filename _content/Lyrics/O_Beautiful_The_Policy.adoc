@@ -1,0 +1,60 @@
+# Lyrics to: O Beautiful, The Policy
+:doctype: book
+:page-authors: Vector Hasting
+:table-caption: Data Set
+:imagesdir: /Media/Images/
+:page-draft_complete: 75%
+:page-stage: 12
+:page-todos: Add links to the music 
+:showtitle:
+
+_Lyrics by Vector Hasting to the tune of "America The Beautiful" composed by link:https://en.wikipedia.org/wiki/Samuel_A._Ward[Samuel A. Ward]_ +
+_link:https://en.wikipedia.org/wiki/America_the_Beautiful#Lyrics[Beginning lines] from link:https://en.wikipedia.org/wiki/Katharine_Lee_Bates[Kathleen Lee Bate's] first stanza in 1893, and the last lines from her 1904 version._
+
+O beautiful, for spacious skies, +
+For amber waves of grain. +
+For purple mountain majesties +
+Above the fruited plain. +
+America! America! +
+Enlightenment for thee +
+Means add a good now understood +
+To corporate policy. 
+
+O beautiful, to build assets +
+And spread the pool of risk +
+The corporate structure is the best. +
+But there’s an asterisk. +
+America! America! +
+You started with this greed +
+To maximize a few mens' rise +
+And now a change you need. +
+
+O beautiful, to see the change, +
+A single word is all. +
+From Shareholder you rearrange +
+And Stakeholder install. +
+America! America! +
+Shared values rise away +
+For maximize means all will rise +
+And birth a brand new day. 
+
+O beautiful, to now be free +
+from having people train +
+In corporate greed pathology +
+And live in moral stain. +
+America! America! +
+Let true Grace fall on thee. +
+And crown this good with brotherhood +
+From sea to shining sea. 
+
+
+These lyrics are written and copyrighted 2025 by Vector Hasting. 
+
+I, Vector Hasting, deed use of them under Creative Commons link:http://creativecommons.org/licenses/by-sa/4.0/[Creative Commons Attribution 4.0 International License]
+
+"I hope they will be used in all means possible to promote the goals of restoring and securing Liberty and Justice for All." - Vector Hasting 
+
+The Attribution should be as close as possible to: +
+"Lyrics written and copyrighted 2025 by Vector Hasting to promote ProjectLiberty2029.com"
+
+image::..\Media\Images\by-sa.png[]

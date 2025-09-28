@@ -1,0 +1,287 @@
+# Before the Election Preparing for Election Theft
+:doctype: book
+:page-authors: Vector Hasting
+:table-caption: Data Set
+:imagesdir: /Media/Images/
+:page-draft_complete: 50%
+:page-stage: 02
+:page-todos: Add links to the groups who are already working on this. 
+:showtitle:
+
+## The reason for this document. 
+
+In the two years between the 2026 midterms and the 2028 presidential election, there are multiple logical maneuvers which the 
+DJT, MAGA, and Project 2025 regime (collectively: 'the MAGA regime') will consider in order to remain in power. 
+
+The extreme measures they are likely to entertain and employ will be motivated by their fear of being prosecuted for their
+many crimes during their regime. 
+
+The following list includes many obvious threats, but also some that the reader may have a hard time accepting:
+
+. Suppression of voting to favor the MAGA regime candidate:
+.. Unfairly counting the 2028 election by removing voters from voting roles ahead of voting
+.. Intimidating voters from casting ballots.
+.. Destroying ballots that were cast but only from districts that dis-favor the MAGA regime. 
+.. Dirty tricks like mis-information on how/when/where to vote. 
+. Post-election manipulation of election results:
+.. Removing voters' votes from countable votes after election day.
+.. Selective hand-count challenges only in certain districts. 
+. Faking the Presidential Electors
+.. Creation of a fake set of Electors for the losing Presidential candidate.
+.. Counting the fake Electors instead of the real electors.
+. Use of Force by the MAGA regime. 
+.. Preventing members of Congress from convening Congress on January 3rd, 2029. 
+.. Preventing members of Congress from convening on January 6th, 2029. 
+.. Culling the members allowed to convene on January 6th, 2029 in order to make a majority for 
+throwing the election to the MAGA regime. 
+
+To readers who have a hard time giving credibility to these threats, consider the following:
+. Remember how extreme January 6th 2021 seemed, 
+. Consider how the violent perpetrators (and their supporters) have avoided justice -- including by receiving DJT pardons,
+. Consider how such avoidance of consequences works to embolden even more inconceivably illegal and violent moves. 
+. Consider that we are now facing a MAGA regime Department of Justice (DOJ) which has been weaponized to use its powers 
+(including physical force) to keep the MAGA regime in power.
+. Consider the power under current law that DJT has to take-over Washington DC with armed troops.
+. Consider DJT's Executive Order of August 25, 2025 directing the Department of Defense to create a 
+"specialized unit within the District of Columbia National Guard" and to "deputize the members of this unit to enforce Federal law."
+footnote:[link:https://www.whitehouse.gov/presidential-actions/2025/08/additional-measures-to-address-the-crime-emergency-in-the-district-of-columbia/["Executive Order of August 25, 2025", window=read-later,opts="noopener,nofollow"]]
+
+If the reader seriously considers these 
+
+## Suppression of voting to favor the MAGA regime candidate
+
+Once the electoral map is set, the counter moves to voter suppression techniques involve increased grass-roots 
+and Democratic party attention to straightforward poll-watching and poll activism. 
+
+### Why we should expand poll-watching to all 50 states.
+
+In any contest, there is a need to apply "pressure" on one's opponent to prevent them from making gains more efficiently and cheaply. One applies pressure whether one is winning or losing. 
+
+To the Democratic Party: this document acknowledges progress being made toward applying more pressure across the nation. The Democratic Party seems to recognize that they have fallen prey to several practices that have made them less competitive in more states than they should be. These practices include out-sourcing voter registration and not even paying for state party chairs in "red" states. 
+
+To those who live in "Red" states: this document sounds a call that you can help preserve our Liberty by becoming active in a volunteer team (or form one yourself) for poll-watching in your community. There are links in the final section of this document. 
+
+In organizing yourself, please keep in mind that we need as much redundancy as possible. That means trying to avoid turf-battles between local activist groups. If there are more teams ready to watch a given set of polls: good. Be friendly with each other. Be satisfied with your redundancy and reach out to neighboring communities to see if you can lend them resources. 
+
+### Overview of the efforts to date:
+
+The good news is that there has been a long tradition of effective poll watching across this country for decades. 
+
+The bad news is that there has been a concerted effort since the 2020 election to dismantle that tradition though widespread harassment of poll workers and through systematic attempts to 'capture' the registrar's offices and secretary of state apparatus in many states.  Georgia is a particularly worrisome example. 
+
+Between now and the 2026 election, the Democratic Party and grassroots organizations in all but the deepest Red or Blue states should amplify their efforts to call on volunteers to train and step up to the challenge of securing the 2026 and 2028 elections. 
+
+While it does make sense to prioritize spending in swing-states, we must also pay attention to standing up teams in both "blue" and "red" states for the following reasons: 
+
+. We need overwhelming numbers nationwide to build political support for fighting back against the most extreme contingencies of election theft by this Authoritarian regime.  This means missing no opportunity to preserve actual votes and avoid the kinds of manipulations that suppress votes such as:
+.. Removing people from voter roles post-voting, as has been attempted in North Carolina, footnote:[https://www.lwv.org/newsroom/press-releases/federal-court-rules-favor-voters-north-carolina-post-election]
+.. Actual vote tampering, as has been attempted in Colorado. footnote:[https://www.bbc.com/news/articles/cr75mpkm7nro] 
+.. Standard dirty tricks such as: poorly staffing areas unlikely to vote for the party in power (red states), not mailing out absentee ballots, vandalizing vote drop-off locations, intimidation at poll sites, etc..
+
+. The fight will not be over in 2028: we must build and exercise  organizational muscle to enable subsequent elections to be won by non-Authoritarians in currently "red" states and to continue to win in currently "blue" states. 
+
+### Vote monitoring resources. 
+
+Several organizations are already versed in this, including the Democratic party itself. 
+
+League of women's voters
+indivisible
+The Democratic Party
+_expand this list of organizations, and find reputable lists-of-lists sites_
+ 
+## Post-election manipulation of election results
+
+This phase will begin as the poll-watching phase winds down within each voting district across the country. 
+
+We should expect areas with a high brown-american demographic to receive the worst treatments, just as we did in 
+the 2020 election. Places like Georgia and Arizona. 
+
+But also there have been efforts to manipulate the allowed voter pool after an election. 
+footnote:[https://www.lwv.org/newsroom/press-releases/federal-court-rules-favor-voters-north-carolina-post-election]
+
+It is likely that the MAGA regime candidates will be widely unpopular and therefore more desperate to 
+employ the same kinds of post-vote manipulations.
+
+Grass roots organizations should make this take-away: we need redundant sets of lawyers and law teams working to oppose 
+any and all such efforts because the level of fight that we should expect from losing MAGA regime members (who face 
+possible prosecution once they lose power).  
+
+There should also be a robust and centralized public messaging response _from the winning Presidential candidate_ as well as
+his/her surrogates. This effort must be pre-organized in every state to include locally trusted politicians who
+can appear on local media. 
+
+We should prepare for violence from losing MAGA members, and violence met with the support of the Federal MAGA regime. 
+Local grass-roots need to plan ahead to constitute formally trained bodyguards and security for legal teams working in 
+states that are run by Republican governors. 
+
+Democratic governors should explore legal means that their offices can employ to send security personnel (perhaps as
+clandestinely as legally possible) to assist in the security for legal teams in Republican led states. 
+
+## Faking the Presidential Electors
+
+We should expect a more sophisticated repeat of the methods attempted to subvert the Presidential Electors system. 
+
+This repeat, however, will be buttressed by a compromised DOJ who will work to embolden and support fake
+claims of wrongdoing in support of sending fake Electors to Washington. 
+
+Therefore, we need the Democratic party and grass roots organizations to also prepare a separate set of lawyers and law
+teams to counter such efforts. 
+
+As with the previous section, we also need a robust and centralized public messaging response _from the winning Presidential candidate_ 
+as well as his/her surrogates. This effort must be pre-organized in every state to include locally trusted politicians who
+can appear on local media. 
+
+We should prepare for violence from losing MAGA members, and violence met with the support of the Federal MAGA regime. 
+Local grass-roots need to plan ahead to constitute formally trained bodyguards and security for legal teams working in 
+states that are run by Republican governors. 
+
+Democratic governors should explore legal means that their offices can employ to send security personnel (perhaps as
+clandestinely as legally possible) to assist in the security for legal teams in Republican led states. 
+
+## Use of Force by the MAGA regime
+
+The most extreme threat will be the actual use of force against Americans and against Congress by the MAGA regime (who will be 
+motivated to stop at no measures because losing power means facing Justice and prosecution).
+
+The natural weak point in our Constitution has already been found: January 6th, 2029. 
+
+Because members of Congress convene in Washington DC, and Washington DC is the one place in the United States where Federal Law 
+permits the President to declare an emergency and then use Federal Forces, including the National Guard, that day is uniquely
+vulnerable. 
+
+While the link:https://constitution.congress.gov/browse/essay/artI-S6-C1-2/ALDE_00013354/["Constitution Article I, Section 6, 
+Clause 1",window=read-later,opts="noopener,nofollow] grants members of congress immunity from arrest while traveling to the Capital, 
+the exceptions include Treason and Felony.  But it doesn't specify at what stage in a Treason or Felony case (investigation, ) grants is exceptionally clear that 
+
+An example of such an order would be: 'detain Mr. Blue-state Congressman on January 5th for the Department of Justice investigation
+into Treason and Felony charges for attempting to overthrow the validly elected New President of MAGA. Hold them until January 7th.' 
+
+This rationale is the one that was used to incite the mob that invaded the US Capital on January 6th, 2025. 
+
+The current MAGA regime has several years to distill enough MAGA-loyalists into units positioned around the US Capital to make 
+this a viable use of force option, should it appear to the MAGA regime that all other measures are at risk of failing.
+
+The MAGA regime has already begun planning for this: see link:https://www.whitehouse.gov/presidential-actions/2025/08/additional-measures-to-address-the-crime-emergency-in-the-district-of-columbia/[Executive Order mentioned 
+above,window=read-later,opts="noopener,nofollow"] 
+
+There are several counter-moves to this use-of-force strategy, all of which are poor because none of them offer a high probability of success. 
+
+The final one offers the greatest probability of success because it retains the most of our Constitution. 
+
+This needs further attention from a larger group of experts and politicians. 
+
+The counter-moves fall into these groups:
+. Repeal the power of the President to use federal forces in Washington DC.
+. Defund and disperse the MAGA loyalist unit.
+. Impeach DJT during the 200th Congress, replacing him with JD Vance, and hold the line on confirmation of JD Vance's nomination of a 
+replacement Vice President to someone like Mike Pence who will perform his duty to execute the will of the people in the 2028 election.
+. Convene Congress outside Washington DC to avoid the likely use of force by the MAGA regime to cherry-pick the Electors in a 
+Venezuela-style steal of the US Election
+. Call on the Military to move against the MAGA loyal units in DC to prevent them from using force to cherry-pick electors. 
+. Call on masses of demonstrators to fill the streets of DC to overwhelm potential use of force in a Yeltzin-style defense of Democracy. 
+
+
+*_Counter-move 1: Repeal Use-of-Force in DC_*
+
+If possible, have Congress repeal the law permitting the President to use force in the District of Columbia. The likelihood of success 
+is low because it would require having enough non-MAGA regime votes to override a Presidential veto of the revocation of that Presidential power. 
+
+*_Counter-move 2: Defund and disperse the MAGA loyalist unit_*
+
+If possible, have Congress use budget authority to attempt to disband the MAGA loyalist military force. The likelihood of success 
+is low because it would require having enough non-MAGA regime votes to override a Presidential veto of the budget. It also leaves plenty
+of wiggle-room for the MAGA regime to use accounting tricks to maintain their force. 
+
+*_Counter-move 3: Impeachment_*
+
+If impeachment and removal of DJT _is not_ possible, JD Vance remains vice president, he has vowed to do whatever DJT requests, including attempting
+to throw out valid Presidential Electors. 
+
+If impeachment and removal of DJT _is_ possible, then it seems nearly impossible to imagine that it would also be possible to impeach and remove 
+JD Vance.  In such a case, the political pressure to confirm JD Vance's proposed VP replacement would be extremely high, and if JD Vance manages to 
+nominate someone sufficiently loyal, then we are in the same position we were with DJT as President and JD Vance as VP. 
+
+*_Counter-move 4: Move Congress outside Washington DC_*
+
+Congress has the power to determine where it will convene.  This can be engineered without ever going to Washington DC (as outlined in the following
+paragraphs). 
+
+However, link:https://constitution.congress.gov/constitution/amendment-12/[the Twelfth Amendment to the US Constitution,  window=read-later,opts="noopener,nofollow"] 
+requires the counting of Electors to be officiated done by the "President of the Senate," and link:https://constitution.congress.gov/browse/article-1/section-3/clause-4/["Article 1, Section 3, Clause 4",  window=read-later,opts="noopener,nofollow"] specifies the Vice President as the President of the Senate. 
+
+Therefor, a bad-acting Vice President could create a constitutional crisis by simply not showing up to preside over the vote count. 
+
+Without their presence at the vote count, it would be valid for the nation not to see the elected president as the valid president. 
+
+As to how the Congress could be convened outside of Washington DC, it would work as follows: 
+
+Constitutionally, while the _timing_ of when Congress must meet is set by the 
+link:https://en.wikipedia.org/wiki/Twentieth_Amendment_to_the_United_States_Constitution[20th Amendment to the 
+Constitution,window=read-later,opts="noopener,nofollow"], 
+the _location_ is up to Congress. This has been a long practice.  Every Congress since the attacks of 9/11 have had their first organizing 
+Joint Resolution 
+link:https://www.congress.gov/bill/119th-congress/house-concurrent-resolution/1[H.Con.Res.1, window=read-later,opts="noopener,nofollow"] 
+give the leaders of the House and Senate the authority to direct Congress to convene at another location. 
+
+If Democrats and those loyal to the Constitution of the United States have won a majority at any time during the 200th Congress 
+(the one beginning on Jan 3rd, 2027 and running until Jan 3rd, 2029) the most prudent action they should take to counteract the use
+of MAGA regime forces on January 6, 2029, would be to reword H.Con.Res.1 to allow the majority leaders to name another place
+for the 201st Congress to convene. This would have the benefit of removing the danger to members of Congress of going to DC at all 
+after a MAGA regime loss in the 2028 election. 
+
+If Democrats and those loyal to the Constitution have not won a majority in the 200th congress, once they are certified as a majority, 
+they should declare another meeting place to convene on January 3rd, 2029 and maintain their presence there until January 20th. This will 
+be a much more difficult path, but offers the hope of convincing the country of the legitimacy of the incoming Congress and Administration
+because the MAGA regime will attempt to counter-strike both in the courts and with their small group of MAGA loyalist forces. 
+
+The place they should select will need to be a State loyal to the Constitution which has a facility within their legislative building that can
+allow the elected congress to convene in one room. There is currently no such pre-built chamber, but it should be possible to find a cafeteria 
+or other such room that can accommodate 535 members of congress. 
+
+*_Counter-move 5: Mass Demonstrations Protect Congress from MAGA Force_*
+
+This is one for the history books. 
+
+Call on masses of demonstrators to accompany each and every member of Congress to the Capital on January 3rd, 2029. 
+
+Then have the demonstrators remain for three days to protect the Capital building from military forces. 
+
+If there are enough people, and if they are willing to let themselves be potentially fired upon, this will work. 
+
+For the contingency of the demonstrators who are protecting the capital being fired upon, the governors of Maryland and Virginia should have pre-marshalled 
+their State Guards and be prepared to send them into Washington DC to rescue their state's delegates from the attack by MAGA loyalist forces. 
+
+Note: Virginia and Maryland will need to invoke control over their National Guards on December 3rd to avoid the President doing it -- there is a 
+30 day limit on how long the President can maintain control of a National Guard in a state. (Need a footnote for this.)
+
+*_Counter-move 5: The Military Rescues the Constitution_*
+
+There are several possible ways for the military to defy its training and defy civilian control to restore the US Constitution. 
+
+But these are all for movie scripts. 
+
+Pentagon Constitutional loyalists could mobilize military units loyal to the Constitution, once the illegal dis-enfranchisement of the 2029 election becomes clear,
+and by force create a 'do-over' counting of the Electoral College votes in Congress. 
+
+The Virginia National Guard could take over the Pentagon itself, and use the Pentagon's command structure to demobilize MAGA loyalists in Washington DC and force a 'do-over' counting of the Electoral College. 
+
+Special forces could decapitate the leadership of the MAGA loyalist forces (who will be few in number) with force (bloody) or subterfuge (non-violent) and 
+thereby short-circuit MAGA plans to use force. 
+
+*_Counter-move 6: Mass Demonstrations Protect Congress from MAGA Force_*
+
+This is one for the history books. 
+
+Call on masses of demonstrators to accompany each and every member of Congress to the Capital on January 3rd, 2029. 
+
+Then have the demonstrators remain for three days to protect the Capital building from military forces. 
+
+If there are enough people, and if they are willing to let themselves be potentially fired upon, this will work. 
+
+For the contingency of the demonstrators who are protecting the capital being fired upon, the governors of Maryland and Virginia should have pre-marshalled 
+their State Guards and be prepared to send them into Washington DC to rescue their state's delegates from the attack by MAGA loyalist forces. 
+
+Note: Virginia and Maryland will need to invoke control over their National Guards on December 3rd to avoid the President doing it -- there is a 
+30 day limit on how long the President can maintain control of a National Guard in a state. (Need a footnote for this.)
+
+This strategy is nonetheless vulnerable to a bad-acting Vice President who refuses to participate at the Capital. 

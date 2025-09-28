@@ -1,0 +1,160 @@
+<!doctype html>
+<!--[if IE 9]>
+<html class="lt-ie10" lang="en"> <![endif]-->
+<!-- the page.title is the line at the top of the document with an = in front of it -->
+<html class="no-js" lang="en" data-useragent="Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; Trident/6.0)">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{page.title}}</title>
+    <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+    <meta name="author" content="ProjectLiberty2029 is founded by Vector Hasting">
+    <!-- <link rel="stylesheet" href="/css/foundation_PL2029.css">      -->
+    <!-- <link rel="stylesheet" href="/css/font-awesome.css">           -->
+    <!-- <link rel="stylesheet" href="/css/coderay.css">                -->
+    <!-- <style>pre > code { border: 0 }</style>                        --> 
+    <link rel="stylesheet" href="/css/coderay_PL2029.css">
+    <link rel="stylesheet" href="/css/asciidoctor_PL2029.css">        
+    <link rel="stylesheet" href="/css/custom_PL2029.css">
+    <link rel="stylesheet" href="/css/fonts_PL2029.css">
+    <script src="/js/vendor/modernizr.js"></script>
+    <script src="/js/toc.js"></script>
+    {% include head-custom.html %}
+</head>
+<body>
+
+<header>
+  <!-- <h1>{{ page.title | default: site.title | default: site.github.repository_name }}</h1> -->
+  <div id=site-name>
+    <a href="https://projectliberty2029.github.io/">Project Liberty 2029 Wiki</a>
+  </div>
+  <p>{{ page.description | default: site.description | default: site.github.project_tagline }}</p>
+  <div id="banner">
+    <span id="logo-l"></span>
+    <a class="button" href="https://github.com/ProjectLiberty2029/ProjectLiberty2029.github.io", 
+        target="_blank" rel="noopener noreferrer">
+        <strong>Help Improve This On GitHub &nbsp;</strong>
+          <div class="img-button"><img src="/Media/Images/Icons/ButtonImage_GitHub.png"></div>
+        </a>
+    <a class="button" href="https://ProjectLiberty2029.com", 
+        target="_blank" rel="noopener noreferrer">
+      <strong>Videos & Essays on Substack &nbsp;</strong>
+          <div class="img-button"><img src="/Media/Images/Icons/ButtonImage_Substack.png"></div>
+        </a>
+    <a class="button" href="https://www.patreon.com/cw/ProjectLiberty2029", 
+        target="_blank" rel="noopener noreferrer">
+      <strong>Support This on Patreon &nbsp;</strong>
+          <div class="img-button"><img src="/Media/Images/Icons/ButtonImage_Patreon.png"></div>
+        </a>
+    <span id="logo-r"></span>  
+  </div><!-- end banner -->
+ 
+</header>
+
+<div>
+  <div id="content-spacer"></div>
+</div> 
+
+<!-- Main Page Content and Sidebar -->
+
+<div class="grid-columns">
+  <aside class="toc-sticky">
+    <span id="draft-status">
+      <a href="/Page_Draft_Status.html"><img src="{{ page.draft_complete | remove: '%' | prepend: '/Media/Images/Icons/Draft_Complete_' | append: '.png' }}" 
+        alt="Draft Status Icon" width="48" height="60"> 
+        &nbsp;&nbsp;{{ page.draft_complete | remove: '%' | prepend: 'Draft Status: ' | append: '%'}}
+      </a>
+    </span>
+
+    <br>
+    <!-- <img src="/Media/Images/Icons/Draft_Complete_50.png" alt="Draft Complete Level"> -->
+
+    <br>
+    <h-toc>Table of Contents</h-toc>
+    <!-- Here is where the Liquid filter generates the TOC -->
+    <!-- Note the number after the colon x represents the highest sectlevelx 
+            the tocify_asciidoc should render. Since sectlevel0 is Header1, 
+            x = 3 would render up to Header 4. The maximum is 7 for header 6. -->
+      {{ page.document | tocify_asciidoc : 7}}
+
+    <!-- Author(s) Block: -->
+    {% if page.authors %}
+      <span id="author-list">
+      {% assign authors_list = page.authors | split: ", " %}        
+      {% if authors_list.size > 1 %}
+        <span class="font20_700i">Authors:</span><br>
+      {% else %}
+        <span class="font20_700i">Author:</span><br>
+      {% endif %}
+        {% for author in authors_list %}
+          &nbsp;&nbsp;{{ author | remove: ',' }}<br>
+        {% endfor %}
+      </span>
+    {% endif %}
+
+    <!-- To Do Block: -->
+    {% if page.todos %}
+      <div id="todo">
+        <span class="font20_700i">To-Do:</span><br>
+          {{ page.todos  }}
+      </div>
+    {% endif %}
+  </aside>
+
+  <!-- Main Blog Content -->
+  <main class="content-notsticky" role="content">
+        {{ content }}
+
+  </main>
+
+</div>
+
+<!-- End Main Content and Sidebar -->
+<!-- Footer --> 
+
+<div class="footer-rows">
+  <br>
+  <hr>
+  <br>
+  <table style="border-color: transparent; background-color: transparent; ">
+    <tr>
+      <td class="footer-rows-image" style="border-color: transparent; width: 200px">
+        <img src="/Media/Images/Icons/ShareOnBlur200.png" alt="TorchOfLiberty" width="200" height="200">
+      </td>
+      <td class="footer-rows-text" style="border-color: transparent; width: 900px">
+        <p>All documents formatted and/or identified as Legislation are hereby donated to the public domain.<br>
+          All authors of such material on this site are hereby notified that work on Legislation shall be in the public domain.<br>
+          Thank you for your service! <br><br>
+          <span class="fonti">Unless otherwise noted in the document's header, footer, or front-matter:</span>
+          all other documents may be assumed to be 
+          <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en", target="_blank" rel="noopener noreferrer">
+            shared under a CC 4.0 BY-SA deed.</a> 
+          <br><br>
+          <span class="fonti">Suggested attribution:</span> "Created by {author's names if known} for 
+          <a href="https://ProjectLiberty2029.com", target="_blank" rel="noopener noreferrer">ProjectLiberty2029.com</a> 
+          and 
+          <a href="https://github.com/ProjectLiberty2029/ProjectLiberty2029.github.io", target="_blank" rel="noopener noreferrer">
+            ProjectLiberty2029.github.io</a> <br><br>
+          Content included under "Source Documents" may be of mixed copyright status. Use caution before copying.<br>
+          If you learn of items that we should remove, please 
+          <a href="https://github.com/ProjectLiberty2029/ProjectLiberty2029.github.io/issues", target="_blank" rel="noopener noreferrer">
+            open an issue, explain the copyright, and we will remove asap.</a>
+        </p>
+      </td>
+    </tr>
+  </table>
+    
+</div>
+
+<!-- </footer> -->
+
+<!-- These scripts are probably necessary for Asciidoctor to render properly -->
+<script src="/js/vendor/jquery.js"></script>
+<script src="/js/foundation.min.js"></script>
+<script>
+$(document).foundation();
+var doc = document.documentElement;
+doc.setAttribute('data-useragent', navigator.userAgent);
+</script>
+</body>
+</html>

@@ -1,0 +1,63 @@
+# Separate Justice Branch
+:doctype: book
+:page-authors: Vector Hasting
+:table-caption: Data Set
+:imagesdir: /Media/Images/
+:page-draft_complete: 50%
+:page-stage: 01
+:page-todos: Add Images of the states. Finish the argument. 
+:showtitle:
+
+## Overview:
+
+With the weaponization of the Justice Department by this Authoritarian regime, it seems unlikely that America can restore public confidence in the impartiality of the Department of Justice as long as it remains under the control of the President. 
+
+Moreover, having power over all forms of federal sanctioned violence (Military, Homeland Security, and the Justice Department) has finally demonstrated the truth of the ancient adage: _"Power tends to corrupt, and Absolute Power tends to corrupt absolutely."_ footnote:[Note targeting of John Bolton's home on 8/22/2025]
+
+Therefore, this ProjectLiberty2029 proposes effectively separating the Attorney General from the office of The President. 
+
+While this may at first seem like a radical idea, it is more likely that the logic of it will become obvious once the public considers this question anew. footnote:[https://journals.law.harvard.edu/lpr/2020/04/22/the-attorney-general-should-be-separate/] Having the Attorney General appointed by and answering to the president is, in fact, the more radical structure; one that the US government has haphazardly wandered into. 
+
+43 States and over 90% of Americans live under a system where their State Attorney General is elected directly by the People. 
+
+## History
+
+When our nation was founded (as is also true today), the Attorney General of England was an agent of the Crown, tasked with representing the Monarchy's interests in court.  footnote:[https://en.wikipedia.org/wiki/Attorney_General_for_England_and_Wales]
+
+The framers did not want a Monarch, so they would have had little reason to want an Attorney General either. 
+
+In fact, the position of the US Attorney General was not created until the Judiciary Act of 1789. And then he gave legal advice to _both_ the President and Congress. The Attorney General's job was to create legal opinion, not to enforce laws. footnote:[https://en.wikipedia.org/wiki/United_States_Attorney_General#History]  
+
+Prosecution of laws was done by US Attorneys. footnote:[Ibid]
+
+It was only after the Civil War, with the need to prosecute violations of civil rights by the former Confederate states, that the Department of Justice was formed and the Attorney General was placed in charge of the US Attorneys and elevated to a cabinet level position.  (He formerly was an officer in the Department of the Interior.) footnote:[https://en.wikipedia.org/wiki/United_States_Department_of_Justice#History] 
+
+## Legal Frameworks for making an Independent Department of Justice
+
+The Attorney General and the Justice Department could be separated from the control of the President either with Statues or with a Constitutional Amendment. 
+
+### Statute
+
+It can be done by Statue because the office is not in the Constitution. Both the Department of Justice and the position of Attorney General were created by statue: specifically, the Judiciary Act of 1789. footnote:[https://en.wikipedia.org/wiki/Judiciary_Act_of_1789]
+
+Because of the Appointments Clause of the Constitution (Article II, Section 2, Clause 2) the only avenue for separating appointment of the Attorney General from the President _without_ a Constitutional Amendment would be to "vest the Appointment of such inferior Officers, as they think proper... in the Courts of Law..." footnote:[https://en.wikipedia.org/wiki/Appointments_Clause]
+
+Furthermore, the establishment of the Federal Reserve as an independent body also offers a constitutionally sound way to separate the governing of the Justice Department from the Office of the President. 
+
+However, because the Supreme Court can itself be manipulated politically (as we have seen in the past decade), and its approval ratings are now at about 40%, it will hardly restore confidence in the administration of Justice for All to have such a body appoint the Attorney General. 
+
+### Constitutional Amendment
+
+The best solution may be to understand that the concept of three branches of government was probably flawed from the beginning. 
+
+It was an academic exercise first ascribed to the 18th century philosopher Montesquieu. footnote:[https://en.wikipedia.org/wiki/Montesquieu] 
+
+But it took the founding of the United States to bring this tripartite government concept into practice. 
+
+And it was only after our Civil War that created and empowered the Department of Justice as we know it today.  
+
+The long history and satisfactory examples of 43 states, governing 90% of Americans, is that electing an Attorney General is the best solution. 
+
+This solution is only possible through a Constitutional Amendment. 
+
+While this would be a massive shift --  it would double the number of nationally elected figures -- given the low esteem of all our branches of government, it may be the only viable means of restoring confidence in Justice for All. 

@@ -1,0 +1,62 @@
+# Military Priorities
+:doctype: book
+:page-authors: Vector Hasting
+:table-caption: Data Set
+:imagesdir: /Media/Images/
+:page-draft_complete: 25%
+:page-stage: 01
+:page-todos: Finish fleshing out the overview of needed improvements to the US Military with a focus on non-traditional ways to use its resrouces to solve problems like Global Warming, and failed states. 
+:showtitle:
+
+## Summary
+The military must quickly adapt to and answer the following threats for which it has not been prepared by history nor by the regime of DJT, MAGA, and Project 2025 (the MAGA regime).
+
+These priorities form part of the goals of TRP2029 and PG2029.
+
+## Specific Focus on Climate Change
+
+Specifically, Climate Change must be addressed as rapidly as possible. 
+
+The MAGA regime did great damage to the US and World progress against the effects of Climate Change. 
+
+Due to these losses, the Because of time, direction, and human resources lost during the MAGA regime, the previous trajectory of using the 'soft power' of economic policy will be insufficient to preserve the United States through the sea-level rise 
+
+## General List of Unmet priorities:
+[1-a]
+. Means to counter the activities of Foreign adversaries:
+.. Political and influence attacks on the networks which the United States and her allies depend upon. These attacks are primarily in the form of funding and services for nations which are on the periphery of Western Alliances. footnote:[Need to have a list of these countries, like Venezuela, etc.] 
++
+[1-b]
+.. Use of emerging technologies including Artificial Intelligence (AI), remotely controlled drones, and (most ominously) autonomous drones to: footnote:[These threat priorities are listed here because while they have been identified at length in military planning, they present the kind of threat that has not received sufficient resources: one thesis of TRP2029 is that this lack derives from the growing performative and zero-sum nature of politics having reached the planning and execution command structures of the US Military and Security Services.]
+... Build force structures capable of directly threatening US Forces.
+... Build force structures capable of directly threatening US Allies. 
+... Build force structures capable of directly threatening international infrastructure of strategic and commercial value to the USA and her allies (such as underwater cable systems, and outer-space satellite systems). 
++
+[2-a]
+. Means to control and mitigate strategic levels of Chaos in both foreign and domestic theaters:
+.. Chaos caused by breakdown of human made systems:
+... Food supply (agriculture),
+... Food distribution, 
+... Power supply,
+... Power distribution,
+... Security (military and policing)
++
+[2-b]
+.. Chaos caused by crisis of natural systems:
+... Regular disasters such as rain-driven floods, earthquakes, tsunamis, forest fires;
+... Emerging disasters such as famine, heatwaves, ocean-rise dry flooding;
++
+[3]
+. Means to mitigate Climate Change:
+.. 
+
+## Recommended Actions to Address Unmet Priorities
+
+Means to address the items listed above under <<General List of Unmet priorities, Unmet Priorities>>:
+[1-a]
+. In general, expand public outreach to both the US public and foreign publics to re-build and maintain US political support for the non-violent support that the US Military offers our allies, 
+.. Buttress the training and staffing of political advisers within the Pentagon, and particularly within the Navy, in order to better find and exploit the political weaknesses of foreign adversaries connections to periphery nations.
+.. Include in this effort reforms which present means to empower periphery nations in ways that they will see can only be offered by a Democratic Society, and which will be better than those offered by authoritarian/mercantilist societies such as China, and authoritarian/resource societies such as Russia. Examples of this would run along the lines of the Marshal Plan, but with the backing of US Military Resources like the US Army Corps of Engineers. 
++
+[1-b]
+. 

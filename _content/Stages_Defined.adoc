@@ -1,0 +1,93 @@
+# Stages Defined
+:page-authors: Vector Hasting
+:showtitle:
+:imagesdir: Media/Images/
+:page-draft_complete: 100%
+:page-stage: 00
+:page-todos: This page may need to be revisted if we need more granularity on the stages.
+
+## Overview
+
+Restoring and re-securing our liberties will require concerted effort over a long period of time. 
+
+We are defining the stages of this conflict so that documents which pertain to a particular stage can be labeled in their "front matter" (see <<content/Sample_Doc.adoc#"Front Matter",Front Matter on the Sample Pages document.>> 
+
+Documents will appear on the Index page under the "Conflict Stage" depending on this number. 
+
+When authoring or updating a page, note that pages' front matter should include the leading zero, if any: ":page-stage: 07" and not ":page-stage: 7"
+
+## List of Conflict Stages
+
+The last number is for documents that don't belong in a particular timeframe. 
+
+The first number is for anyone getting started with Project Liberty 2029: you may be coming onboard during Stage 4, but you'll want to review These Conflict Stages areas as follows: 
+
+[cols="1b,4, 10"]
+[width="50%]
+|===
+|Stage | Name | Description
+
+|00
+|Getting Started
+|This stage is for anyone beginning to help here with Project Liberty 2029. It's essentially a personal stage. All information that relates to becoming oriented. Even if the day you become engaged with this is during a later stage (for example, Stage 4), you would want to read the docs in Stage 0, then Stage 1, then skip to 4 (or whatever is the current stage). For example, this document is in Stage 0. 
+
+|01
+|Defining the Fight
+|What we are fighting for defines how we must fight. All the legislative and constitutional amendments that form the Project Liberty 2029 "platform" go here
+
+|02
+|Before Midterms
+|Pages which are relevant from before the 2026 mid-terms onward have Stage 1. All the legislative recommendations which for the Project Liberty 2029 proposed "platform" belong in this stage, because they define what we're fighting for. 
+
+|03
+|First Lame Duck
+|The period between the election of 2026 and the seating of the 120th congress
+
+|04
+|120th Congress Year 1
+|The first year of the 120th congress will be before Presidential candidates begin their formal campaigns. (Those candidates already have their plans in motion, but they are politically 'freer actors' until they declare.)
+
+|05
+|Presidential Primaries
+|This stage overlaps with Stage 3. It is the period where candidates are in the primaries for the Republican and Democratic nominations. 
+
+|06
+|General Election
+|This stage is meant for activities and concerns that must be addressed once there is an understood winner of either primary contest. It is not the technical period 'after the convention.' 
+
+|07
+|Post Election Limbo
+|Because of the nature of this conflict, the period between election day and the state's certification of Presidential Electors is fraught with needs for which Project Liberty 2029 hopes to have a role in planning. 
+
+|08
+|Pre Jan 3rd
+|Congress convenes on Jan 3rd. No stage in the transfer of power will be missed for opportunities to refuse to cede power. The seating of Congress is one of those pivotal moments. This stage overlaps with the next stage and documents will need to choose a stage based on which kind of concerns the document addresses. If it addresses both, it should be in this stage. 
+
+|09
+|Pre Jan 6th
+|This is the famous day of certification by Congress of the winner of the Presidency. It is the most pivotal moment in the coming struggle. This stage overlaps with the previous stage and documents will need to choose a stage based on which kind of concerns the document addresses. If it addresses both, it should be in the previous stage. 
+
+|10
+|Pre Jan 20th
+|This is for concerns relevant to the period after Congress has certified a winner of the Presidential Election, and the day prescribed by the Constitution when the newly elected President takes power. 
+
+|11
+|Post Jan 20th
+|This is the long period during which power has been taken by the successor to the MAGA regime. This could be a period of post-constitutional struggle if the Will of the People has been defeated, Venezuela-style, or a period of reconstruction not unlike the period after the Civil War. 
+
+|12
+|Uncategorized
+|If a document is not related to either getting started with this struggle for Liberty and Justice for All (Stage 0), and does not fit within any of the time-frames, then it can be placed in Stage 12 and will appear at the end of the list of Documents by Stage in the main Index. 
+
+|NoShow
+|Invisible
+|If a document should not appear anywhere in the lists by Stage, then it can be left blank. This can be very helpful to keep the Stages section simplified. Legislation, for example, should generally be linked to from the Legislation landing page, which is designated Stage 1, and not individually broken out except for major initiatives, such as The Share and separating Justice from the President. (The document will still appear in the lists by directory structure and by name.) 
+|===
+
+
+
+
+
+
+
+

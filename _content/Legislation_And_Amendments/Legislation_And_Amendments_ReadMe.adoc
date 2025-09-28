@@ -1,0 +1,127 @@
+# Legislation and Constitutional Amendments
+:doctype: book
+:page-authors: Vector Hasting
+:table-caption: Data Set
+:imagesdir: /Media/Images/
+:page-draft_complete: 75%
+:page-stage: 01
+:page-todos: Complete this.
+:showtitle:
+
+The goal of TheRealProject2029 (TRP2029) is to map for We The People a comprehensive set of strategies and demands to Restore and Protect Democracy, Liberty and Justice. +
+
+We will abbreviate those goals as the "Project Goals 2029," or PG2029. 
+(Or a better abbreviation arising in the future.)
+
+## Challenges due to SCOTUS
+
+The current Supreme Court of the United States (SCOTUS) has engaged in rulings at odds with the very constitution they claim to represent.  +
+
+For example, in Trump v. USA, they created an exclusive "Constitutional Right" for Presidents be immune from Criminal prosecution for "official acts." +
+
+SCOTUS created this right despite the Constitution having no such language, and despite the fact that the Constitution speaks to immunity: but only for members of Congress, and only while engaged in legislative duties, and not in the case of Treason, Felony, or Violence. footnote:[See US Constitution, Article I, Section 6: "They shall in all Cases, except Treason, Felony and Breach of the Peace, be privileged from Arrest during their Attendance at the Session of their respective Houses, and in going to and returning from the same; and for any Speech or Debate in either House, they shall not be questioned in any other Place."] footnote:[For further example, in Citizen's United v. FEC they have extended first-amendment rights of freedom of speech to corporations.] footnote:[For further example, in Burwell v. Hobby Lobby they have extended first-amendment rights of freedom of religion to corporations.] +
+
+Corporations are manifestly not humans, yet the first amendment seems most obviously to pertain to persons, and not to corporate entities. footnote:[See US Constitution, Amendment I: "Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof; or abridging the freedom of speech, or of the press; or the right of the people peaceably to assemble, and to petition the Government for a redress of grievances."] footnote:[Also, scan the US Constitution for mention of corporations, or joint-stock companies as they were known at the time, and there is no mention of them.] +
+
+These examples are not exhaustive. +
+
+(Contributors can be particularly helpful in making a  better elucidation of examples of the politically motivated contradictions in recent SCOTUS rulings. footnote:[See: https://afj.org/article/supreme-court-inconsistency-reveals-its-political-hypocrisy/]
+
+*TRP2029 must anticipate that many of the laws we will pass for PG2029 will be struck down by SCOTUS.*
+
+Nonetheless, we must pass them first as ways to advance two other necessary strategies for PG2029: +
+
+First: for each law that is struck down, we will need to replace them with constitutional amendments -- and these will have more justification if a corrupt self-serving court has struck down the equivalent laws. +
+
+Second: we need to bolster the political case for expanding SCOTUS, implementing term limits for SCOTUS, and imposing ethics reforms on SCOTUS. +
+
+The second strategy above may lead to another "Constitutional Crisis" as the sitting SCOTUS may well defend their support of Project 2025 by ruling some or all of the legislation aimed at reforming SCOTUS to be an unconstitutional infringement by the Legislative Branch on the Judicial Branch. +
+
+If that happens, the second line of legislative attack for PG2029 will be to attempt to pass constitutional amendments that duplicate the laws SCOTUS struck down. +
+
+In order to succeed, politicians in the service of PG2029 must wage a multi-decade struggle to complete a Constitutional makeover of the USA. +
+
+That mission will be accelerated by relentless political focus on the injustice of SCOTUS' decisions to grant ever more power to the powerful, and on Justices' refusal to have sensible check upon their own power. +
+
+For these reasons, every sub-folder in this folder "LegislationAndAmendments" is titled according to the subject being addressed (for example, "voting rights," or "corporate reform," or "data privacy rights") and contains within it two sub-folders: one for laws, and another for constitutional amendments. +
+
+It may be that some folders contain only a stub indicating why the law or amendment is not there. The possible reasons are:
+
+. It may be that there is no conceivable way for the law to be ruled unconstitutional, and in that case the constitutional amendment folder will have no amendment. 
+. It may be that there is no conceivable way for a law to be ruled constitutional, and in that case the law folder will have no law. 
+. It may also be that one or the other or both still needs to be written. 
+
+## Challenges due to Political Parties
+
+We have now reached the point that George Washington warned us of in his xref:../SourceDocuments/Washingtons_Farewell_Address.pdf[farewell address] that “(Political factions and parties) are likely in the course of time and things, to become potent engines by which cunning, ambitious, and unprincipled men will be enabled to subvert the power of the people and to usurp for themselves the reins of government, destroying afterwards the very engines which have lifted them to unjust dominion.” [p 12]
+
+The founders of the US Constitution, and of all constitutions based on the US Constitution used the concept of "separation of powers" from Baron de Montesquieu who published _The Spirit of Law_ in 1748 footnote:[https://en.wikipedia.org/wiki/Montesquieu]. +
+
+Unfortunately, Montesquieu was working in an environment where the most separation of powers known was a parliament (Legislature) and a king (Executive). So when he envisioned three branches (adding a Judiciary), he was being visionary for his time. +
+
+*However, with the authoritarian hack against our democracy represented by DJT, MAGA, and Project 2025, we have learned that a separation into three powers with 'traditions' for further constraining power, has failed.*
+
+We must therefore advocate for additional separations of powers.  + 
+
+These will require Constitutional Changes. +
+
+One of the traditional ways our institutions have supported the separations of powers has been political parties willing to work against their own members across branches. footnote:[Examples include Republican Representatives and Senators willing to impeach President Nixon, and Democrats working to oust Senator Al Franken.] +
+
+But this no longer applies. footnote:[Both Bill Clinton and DJT were impeached by the House of Representatives, but were able to use party influence to avoid conviction and removal from power in the Senate.] +
+
+### Need to prevent institutions from violating Separation of Powers
+
+This points to a larger problem: the separation of powers does not work if a higher power un-does the separation by organizing the use of power at a level higher than the branches of government. +
+
+This is what we see happening now with a Congress controlled by the President's party and unwilling to assert its prerogative over tariffs, or oversight of spending at federal agencies, or the impounding of funds, or the confirmation of unqualified appointees and judges, and so forth. +
+
+Unfortunately, the only conceivable remedies for this are: 
+
+. reinstate the tradition of refusing to favor party of Constitutional organization, or 
+. make it constitutionally prohibited for any organization to be higher than the separation of powers. 
+
+The first is a generational cultural project which will not protect us as firmly as the second. +
+
+However, the second will require a  constitutional amendment proposed here that prohibits any entity from attempting to influence more than one branch of government.  +
+
+This will be opposed by: +
+
+. Political parties who derive their power by influencing multiple branches of government by their electing of members to those branches.
+. Corporations which spend large sums of money to influence the makeup of all three branches of government. 
+. Religious organizations that spend a great amount of energy focusing their members on voting to support like minded members to all three branches of government
+. Labor, university, civic, and other large organizations with the political reach to enable them to effect the membership of multiple branches of government. 
+. Consultants, advertisers, law firms and other for-hire entities who serve to advance the interests of the groups already listed. 
+
+The only possible way to overcome this vast opposition will be a two-part political message: 
+
+. Channel RFK's message that 'We do these things not because they are easy, but because they are hard,'
+. And propose that each individual actor who sees their power ebbing because we are separating and limiting their political influence to see it from the opposite end of the lens: their power will be over a smaller pond, and so their discretion and influence will be greater and more satisfying. 
+
+The second argument will only work on mid-level power-players. It will not satisfy those who are pulling the strings at a party level and who already have vast influence over multiple branches of government. Their power, indeed, is probably sufficient to doom the project of passing the "separation of powers is inviolable" amendment. 
+
+While it may be quixotic to propose this amendment, it is vital to chart this course for the nation because without taking this road, we seemed destined to repeat history just as Washington warned in his xref:../SourceDocuments/Washingtons_Farewell_Address.pdf[farewell address]. +
+
+Our generation may surprise us and take this road today. If not, we lay the map out for following generation. 
+
+## Most Promising
+
+### A Separate Attorney General
+
+Perhaps the most important Constitutional restructuring we must demand is also surprisingly the least politically challenging: +
+
+Make the Attorney General of the United States a separate, directly elected office of the United States. 
+
+Keep in mind that over 93% of Americans live in states that directly elect their State Attorney General. footnote:[xref:../SourceDocuments/Census_Pop_By_AttorneyGeneralType_from_SCPRC-EST2024-18+POP.ods[State Population by Attorney General Type.]]
+
+The founders did not conceive of a set of criminal laws that would require a Department of Justice. That only came about because of the Civil War and the Judiciary Act of 1789. footnote:[https://en.wikipedia.org/wiki/United_States_Attorney_General#History]  
+
+The only natural constituency for keeping things they are is the sitting President and his supporters. 
+
+The amendment for separating the Attorney General and Justice Department into a separate branch of government is here. 
+
+### No One Is Above the Law
+
+Another Constitutional restructure that has only one constituent: the President and his supporters, is to "repeal" the Trump vs. USA decision granting unconditional criminal immunity to the President of the United States. 
+
+That amendment is found here. 
+

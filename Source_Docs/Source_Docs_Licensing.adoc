@@ -1,0 +1,6 @@
+# Source Docs Licensing
+
+Wherever possible, we have striven to use source documents in the public domain. 
+
+If a document is included here that should not have been copied here, please open a GitHub issue and we ask for your understanding and will replace the document with a link to the document asap. 
+

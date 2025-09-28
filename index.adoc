@@ -1,0 +1,152 @@
+= Homepage
+:showtitle:
+:doctype: book
+:table-caption: Data Set
+:page-draft_complete: 75%
+:imagesdir: /Media/Images/
+:page-liquid:
+
+
+= Overview
+
+There are several ways to view the plans, proposals and guidance here on Project Liberty 2029.
+
+We are open to suggestions on how to improve. 
+
+
+== Docs by Stages of Struggle
+
+++++
+
+{% comment %}The list is sorted already by url, this resorts it by title, which is name. {% endcomment %}
+{% assign content_grouped_by_stage = site.content |  group_by: "stage" %}
+{% assign stage_list = "0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 00, 01, 02, 03, 04, 05, 06, 07, 08, 09" | split: "," %}
+{% assign stage_names = "Stage 0: Starting,
+                         Stage 1: Define the Fight,
+                         Stage 2: Before Midterms,
+                         Stage 3: First Lame Duck,
+                         Stage 4: 120th Congress Year 1,
+                         Stage 5: Presidential Primaries,
+                         Stage 6: General Election,
+                         Stage 7: Post Election Limbo,
+                         Stage 8: Pre Jan 3rd,
+                         Stage 9: Pre Jan 6th,
+                         Stage 10: Pre Jan 20th,
+                         Stage 11: Post Jan 20th,
+                         Stage 12: Uncategorized" 
+                         | split: "," %}
+
+{% assign sorted_stages = content_grouped_by_stage | sort: "name" %}
+
+{% assign stage_list_stripped = stage_list | strip %}
+<ul class="no-bullet">
+{% for stages in sorted_stages %}
+  {% assign stage_name_str = stages.name | toString %}
+  {% if stage_list_stripped contains stage_name_str and stage_name_str != "" %}
+      {% assign index = stages.name | plus: 0 %}
+        <strong>{{stage_names[index]}}</strong><br>
+      {% assign last_stage = stages.name %}
+      {% assign stage_docs = site.content | where: "stage", stages.name %}
+      {% assign sorted_stage_docs = stage_docs | sort: "title" %}
+
+      {% for document in sorted_stage_docs %}
+        <li class="index-list"><a href="{{ document.url }}">{{ document.title }}</a>
+        </li>
+      {% endfor %}
+  {% endif %}
+{% endfor %}
+</ul>
+
+++++
+
+== Docs by Folders
+
+++++
+
+{% comment %}
+    Step 1: Get unique and sorted directory paths.
+    This builds the primary sorting key.
+{% endcomment %}
+{%- capture unique_paths -%}
+    {%- for document in site.content -%}
+        {%- assign url_simple = document.url | remove: "/content/" -%}
+        {%- assign url_filename = url_simple | split: "/" | last -%}
+        {%- assign url_path_only = url_simple | remove: url_filename -%}
+        {{- url_path_only -}}{%- unless forloop.last -%},{%- endunless -%}
+    {%- endfor -%}
+{%- endcapture -%}
+
+{%- assign sorted_paths = unique_paths | split: ',' | sort | uniq -%}
+
+{% comment %}
+  Step 2: Loop through the sorted paths and then loop through the documents
+  to find and display files in the correct directory order.
+  Use a break comparison and some padding variables to format the indentation
+{% endcomment %}
+{%- assign padding_block = "    " -%}
+{%- assign last_directory = "" -%}
+{%- assign directory_padding = 0 -%}
+{%- assign file_padding = 0 -%}
+
+{%- for path in sorted_paths -%}
+    
+    {%- if path contains last_directory and last_directory != "" -%}
+        {% assign directory_padding = directory_padding | plus: 20 %}
+    {%- else -%}
+        {%- assign last_directory = path -%}
+        {%- assign directory_padding = 0 -%}
+    {%- endif -%}
+    {%- assign display_directory = "/" | append: path -%}
+
+        <strong style="margin-left: {{directory_padding}}px;">{{ display_directory }}</strong><br>
+
+
+  {%- for document in site.content -%}
+    {%- assign url_simple = document.url | remove: "/content/" -%}
+    {%- assign url_filename = url_simple | split: "/" | last -%}
+    {%- assign url_path_only = url_simple | remove: url_filename -%}
+
+    {% comment %} Only display if the path matches the current sorted path {% endcomment %}
+    {%- if url_path_only == path -%}
+      {%- assign url = document.url -%}
+      {%- assign filename_only = url_filename | remove: ".html" -%}
+      {%- assign file_padding = directory_padding | plus: 30 -%}
+      <a style="margin-left: {{file_padding}}px;" href="{{ url }}">{{ filename_only }}</a><br>
+    {%- endif -%}
+  {%- endfor -%}
+{%- endfor -%}
+
+{% comment %} Initialize the variable outside the loop {% endcomment %}
+{%- assign directory_padding = 0 -%}
+
+{% for item in site.my_collection %}
+  <div style="padding-top: {{ directory_padding }}px;">
+    {{ item.title }}
+  </div>
+
+{% endfor %}
+
+
+++++
+
+
+== All Docs by Name
+
+// From https://ongclement.com/blog/github-pages-indexing-directory-copy 
+// then modified by me, but not yet working
+
+++++
+
+{% comment %}The list is sorted already by url, this resorts it by title, which is name.{% endcomment %}
+{% assign sorted_docs = site.content | sort: "title" %}
+<ul class="no-bullet">
+{% for documents in sorted_docs %}
+    <li class="index-list"><a href="{{ documents.url }}">{{ documents.title }}</a></li>
+{% endfor %}
+</ul>
+
+
+++++
+
+
+

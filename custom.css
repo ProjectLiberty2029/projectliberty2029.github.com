@@ -1,0 +1,21 @@
+    @font-face {
+        font-family: 'LiberationSans-Share'; /* Choose a name for your font */
+        src: url('Media/Fonts/LiberationSans-Share-Regular.ttf') format('ttf');
+        /* Add other formats if needed */
+        font-weight: normal;
+        font-style: normal;
+        font-family: 'LiberationSans-Share'; /* Choose a name for your font */
+        src: url('Media/Fonts/LiberationSans-Share-Italic.ttf') format('ttf');
+        /* Add other formats if needed */
+        font-weight: normal;
+        font-style: italic;
+        font-family: 'LiberationSans-Share'; /* Choose a name for your font */
+        src: url('Media/Fonts/LiberationSans-Share-Bold.ttf') format('ttf');
+        /* Add other formats if needed */
+        font-weight: normal;
+        font-style: bold;
+    }
+
+    body {
+        font-family: 'LiberationSans-Share', sans-serif; /* Apply the font to the body or specific elements */
+    }

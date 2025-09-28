@@ -1,0 +1,72 @@
+# Lyrics to: Battle Hymn for Fair And Share
+:doctype: book
+:page-authors: Vector Hasting
+:table-caption: Data Set
+:imagesdir: /Media/Images/
+:page-draft_complete: 75%
+:page-stage: 12
+:page-todos: Add links to the music
+:showtitle:
+
+## aka, Fair and Share for We The People
+
+_Lyrics by Vector Hasting, written to the tune of "Glory Hallelujah" composed by link:https://en.wikipedia.org/wiki/William_Steffe[William Steffe]_ +
+_The Lyrical structure matches that of link:https://en.wikipedia.org/wiki/Julia_Ward_Howe[Julia Ward Howe's] poem "The Battle Hymn of the Republic"_
+
+Mine eyes have seen the glory of a hope for fair reward +
+To millions who now die to feed the wealth of overlords. +
+Wake up our sleeping giant and draw out our fateful sword, + 
+For Justice marches on. 
+									
+We feel the people power as our feet march on the land, +
+We fight to stop the hatred and make cruelty disband. +
+For shield against the powerful: the Share is our demand, +
+For Justice marches on. 
+
+_Fair and Share for We the People +
+Fair and Share for We the People +
+Fair and Share for We the People +
+For Justice marches on._
+
+We see a broken system that the rich have rigged to steal +
+From poor and weak who only seek to beg an honest deal. +
+The time has come to set it straight: a nation we must heal, +
+For Justice marches on. +
+
+The Share will build a power like an oceanic wave +
+And wash away the fear that fills the Land of We the Brave. +
+We lift our gaze to future days: our children we must save, +
+For Justice marches on. 
+								
+_Fair and Share for We the People +
+Fair and Share for We the People +
+Fair and Share for We the People +
+For Justice marches on._
+
+The spark of Spirit born with us endows us to stand tall +
+With Rights Inalienable to Dignity for all. +
+The arc of history bends again and we must heed the call, +
+For Justice marches on. +
+
+In simple hope our ancestors were born across the sea +
+Envisioning a future that improves for you and me. +
+As they died to raise us higher, let us live to see us free, +
+For Justice marches on. 					
+
+_Fair and Share for We the People +
+Fair and Share for We the People +
+Fair and Share for We the People +
+For Justice marches on._
+
+These lyrics are written and copyrighted 2025 by Vector Hasting. 
+
+I, Vector Hasting, deed use of them under Creative Commons link:http://creativecommons.org/licenses/by-sa/4.0/[Creative Commons Attribution 4.0 International License]
+
+"I hope they will be used in all means possible to promote the goals of restoring and securing Liberty and Justice for All." - Vector Hasting 
+
+The Attribution should be as close as possible to: +
+"Lyrics written and copyrighted 2025 by Vector Hasting to promote ProjectLiberty2029.com"
+
+Specifically, these lyrics refer to link:../Legislation_And_Amendments/The_Share/The_Share_ReadMe.adoc[The Share.]
+
+image::..\Media\Images\by-sa.png[]
