@@ -89,6 +89,7 @@ That exception is the :showtitle: attribute: it is a personal preference whether
 However, because the '= Document Title' _is still required,_ it will always display on the Wiki homepage. 
 
 Here are the other document attributes and what they do for us: 
+
 . Static-do not change or it will break something:
 .. :doctype: book ... This is needed to insure the formatting works as expected. 
 .. :table-caption: Data Set ... This allows the pages to display captions on tables. 
@@ -112,7 +113,7 @@ Here are the special Fair and Share Tax Glyphs:       
 
 Text can be *bold*, _italic_, or [.line-through]#strikethrough#.
 
-This is a link to <</Executive_Actions/DOGE_to_ROLA.adoc#,DOGE to ROLA,>> which is in a different folder.
+This is a link to <</_content/Executive_Actions/DOGE_to_ROLA.adoc#,DOGE to ROLA,>> which is in a different folder.
 This link opens in the same tab.
 
 This is a link to <<Page_Draft_Status.adoc#,Page Draft Status,>> which is in the same folder. 
