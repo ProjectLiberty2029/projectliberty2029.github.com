@@ -113,10 +113,10 @@ Here are the special Fair and Share Tax Glyphs:       
 
 Text can be *bold*, _italic_, or [.line-through]#strikethrough#.
 
-This is a link to <</_content/Executive_Actions/DOGE_to_ROLA.adoc#,DOGE to ROLA,>> which is in a different folder.
+This is a link to <</content/Executive_Actions/DOGE_to_ROLA.adoc#,DOGE to ROLA,>> which is in a different folder.
 This link opens in the same tab.
 
-This is a link to <<Page_Draft_Status.adoc#,Page Draft Status,>> which is in the same folder. 
+This is a link to <</Page_Draft_Status.adoc#,Page Draft Status,>> which is in the same folder. 
 This link opens in the same tab. 
 
 This is a link to link:https://constitution.congress.gov/constitution/amendment-12/["the 12th Amendment to the US Constitution.", window=read-later,opts="noopener,nofollow"]
