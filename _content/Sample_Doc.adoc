@@ -112,7 +112,7 @@ Here are the special Fair and Share Tax Glyphs:       
 
 Text can be *bold*, _italic_, or [.line-through]#strikethrough#.
 
-This is a link to <</Executive_actions/DOGE_to_ROLA.adoc#,DOGE to ROLA,>> which is in a different folder.
+This is a link to <</Executive_Actions/DOGE_to_ROLA.adoc#,DOGE to ROLA,>> which is in a different folder.
 This link opens in the same tab.
 
 This is a link to <<Page_Draft_Status.adoc#,Page Draft Status,>> which is in the same folder. 
