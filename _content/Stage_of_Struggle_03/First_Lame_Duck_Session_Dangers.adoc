@@ -4,8 +4,8 @@
 :imagesdir: /Media/Images/
 :page-authors: Vector Hasting
 :page-draft_complete: 25%
-:page-stage: 00
-:page-todos:  
+:page-stage: 03
+:page-todos: Make the "Plan B(a)" and "Plan C" point to my substack essay that explores this. Add additional links to Before the Midterms action documents.  
 :showtitle:
 
 = Who will be seated in the new congress?
