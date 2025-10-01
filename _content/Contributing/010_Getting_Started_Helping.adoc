@@ -54,6 +54,8 @@ This security hardening and detailed tracking advantages bring with them the dis
 
 Easing that complexity is the goal of this set of documents: 
 
+(This document: Getting Started Contributing.)
+
 <</content/Contributing/020_Overview_Of_The_Environment.adoc#,Overview of the Environment.>>
 
 <</content/Contributing/030_How_To_Add_Or_Edit_Pages.adoc#,Adding and Editing Pages on GitHub.>>
