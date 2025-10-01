@@ -1,4 +1,4 @@
-= If You Want to Help: Getting Started
+= Getting Started Contributing 
 :doctype: book
 :page-authors: Vector Hasting
 :table-caption: Data Set
