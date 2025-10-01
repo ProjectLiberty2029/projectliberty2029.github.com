@@ -1,0 +1,204 @@
+= If You Want to Help: Getting Started
+:doctype: book
+:page-authors: Vector Hasting
+:table-caption: Data Set
+:imagesdir: /Media/Images/
+:page-draft_complete: 25%
+:page-stage: NoShow
+:page-todos: Continue this in Desktop mode, Organize, organize, KISS
+:showtitle:
+
+= Overview
+
+This is a sample of the main things you will want in your page. You can cut and paste from inside this document to do most things.  
+
+== Front matter
+
+All Asciidocs must start with an = followed by the Document Title. In this document, that looks like = Sample Document
+
+The very next line begins a bunch of special words that are in the form of :showtitle: or :page-authors: and so forth. 
+These are called *document attributes.*
+
+All the documents in this project should have at least the document attributes included with this document with one exception. 
+That exception is the :showtitle: attribute: it is a personal preference whether you want it to display at the top of your pages. 
+However, because the '= Document Title' _is still required,_ it will always display on the Wiki homepage. 
+
+Here are the other document attributes and what they do for us: 
+
+. Static-do not change or it will break something:
+.. :doctype: book ... This is needed to insure the formatting works as expected. 
+.. :table-caption: Data Set ... This allows the pages to display captions on tables. 
+.. :imagesdir: /Media/Images/ ... This allows the website to find any images we are hosting. It also tells you where to put images you wish to add. You can add sub-directories for images and you'll find examples of that in this document. 
+. Things you are meant to change: 
+. :page-draft_complete: ... Valid values are 0%, 25%, 50%, 75% and 100% and <</Page_Draft_Status.adoc#,are defined here.>> This status appears in the upper left-hand corner of the page when displayed on a computer. Phones do not display this panel, unless you switch to desktop mode. 
+. :page-stage: ... Valid values are 0 through 10 and <</Stages_Defined.adoc#,are described here.>> These stages will cause the document to automatically appear in the "Staged Needs" section of the index page. 
+. :page-authors: ... Here you can let us know who you are so the community knows who ask questions. This can be any text, and you can leave it blank. If included, this displays in the left-hand pane under the table of contents. Phones do not display this panel, unless you switch to desktop mode. 
+.. :page-todos: ... Here you can type any text to indicate the next steps needed for your document. It appears in the left hand pane under the 
+.. :showtitle: ... If this attribute is present, the document title displays at the top. If you remove it, the document title will not display on the page, but the homepage will still show the document title in the clickable list of all documents. 
+
+= H1: Overall:
+
+Our movement against the MAGA regime must say _what we are for,_ not just what we are *against.*
+
+We must be specific… policy proposals are coming soon… for now, please consider the messages in these lyrics. 
+
+Here are the special Fair and Share Tax Glyphs:       
+
+== H2: General Formatting
+
+Text can be *bold*, _italic_, or [.line-through]#strikethrough#.
+
+This is a link to <</content/Executive_Actions/DOGE_to_ROLA.adoc#,DOGE to ROLA,>> which is in a different folder.
+This link opens in the same tab.
+
+This is a link to <</Page_Draft_Status.adoc#,Page Draft Status,>> which is in the same folder. 
+This link opens in the same tab. 
+
+This is a link to link:https://constitution.congress.gov/constitution/amendment-12/["the 12th Amendment to the US Constitution.", window=read-later,opts="noopener,nofollow"]
+This link opens in a new tab. 
+
+Here are the special Fair and Share Tax Glyphs:       
+
+Asciidoc recommends putting one sentence on one line. In other words, don't use return when writing your text, no matter how long your sentence is going to be (and set your editor settings to show wrapping lines, since otherwise you'll have to chase looong sentences all the way across in your authoring software), and then just use a linefeed once for the end of a sentence, and twice for the end of a paragraph. 
+See link:this page for 
+
+== H2 Special Asciidoc:
+
+=== H3 How to Comment:
+
+What follows is a comment that does not appear: (This is done by beginning a line with two // )
+
+// This line does not appear.
+
+What follows is a block of lines that do not appear. (This is done with four //// at the beginning of the first line and at the beginning of the line after the last block-comment.)
+////
+A block
+of lines that do not
+appear. 
+////
+
+This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+
+=== H3 Note! Admonitions!
+
+
+
+> This is a blockquote following a header.
+>
+> When something is important enough, you do it even if the odds are not in your favor.
+
+==== Header 4
+
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
+
+===== Header 5
+
+1.  This is an ordered list following a header.
+2.  This is an ordered list following a header.
+3.  This is an ordered list following a header.
+
+====== Header 6 (table)
+This is a table:
+
+.Mmm good things
+[cols="1,2,1"]
+|===
+|Head1 | Heading number two | Col 3
+
+| ok
+| good swedish fish
+| nice
+
+| out of stock 
+| good and plenty 
+| nice  
+
+| ok
+| good [red]#oreos#
+| hmm
+
+| ok
+| good [.yellow-background]#zoute# drop 
+| yumm 
+
+|===
+
+=== There's a horizontal rule below this.
+
+* * *
+
+=== Here is an unordered list:
+
+*   Item foo
+*   Item bar
+*   Item baz
+*   Item zip
+
+=== And an ordered list:
+
+.  Item one
+.  Item two
+.  Item three
+.  Item four
+
+=== And a nested list:
+
+- level 1 item
+  - level 2 item
+  - level 2 item
+    - level 3 item
+    - level 3 item
+- level 1 item
+  - level 2 item
+  - level 2 item
+  - level 2 item
+- level 1 item
+  - level 2 item
+  - level 2 item
+- level 1 item
+
+=== An image from Root
+Default size: (note that you need a blank after this text or the image will not display)
+
+image::by-sa.png["CC BY-SA, the Deed Icon"]
+
+Failure to display an image
+image::by-sa.png["CC BY-SA, the Deed Icon"]
+
+Override size:
+
+image::by-sa.png["CC BY-SA, the Deed Icon", 200, 100]
+
+Caption:
+
+.CC: BY-SA Deed:
+image::by-sa.png["CC BY-SA, the Deed Icon", 200, 100]
+
+=== An image not from Root
+
+image::Icons/ShareOnBlur150.png[Liberty Torch on Blurred Flag]
+
+
+=== Definition lists
+
+Asciidoc syntax:
+
+Name:: Godzilla
+Born:: 1952
+Birthplace:: Japan
+Color:: Green
+
+== Next Step Resources: 
+
+Here are the other documents in this suite of docs for helping to on-board contributors. 
+
+<</content/Contributing/030_How_To_Add_Or_Edit_Pages.adoc#,How to Add or Edit Pages and get them Approved.>>
+
+<</content/Contributing/040_Guidelines_for_Pages.adoc#,Guidelines and Standards for Pages.>>
+
+
+<</content/Contributing/060_FAQ.adoc#,FAQ: Frequently Asked Questions, and how to get more Help.>>
+
+There is also a link:https://www.reddit.com/r/ProjectLiberty2029/["subreddit for discussion and support.", window=read-later,opts="noopener,nofollow"]
