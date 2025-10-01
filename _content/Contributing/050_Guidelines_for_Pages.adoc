@@ -4,7 +4,7 @@
 :table-caption: Data Set
 :imagesdir: /Media/Images/
 :page-draft_complete: 0%
-:page-stage: 00
+:page-stage: NoShow
 :page-todos: This is just a copy of 010, write this page
 :showtitle:
 
@@ -12,54 +12,37 @@
 
 This page is for those who are considering helping us improve the proposals here in the Project Liberty 2029 Wiki. 
 
-Thank you!
+==
 
-== Basic technical skills you will need.
+Asciidoc has the following recommendations for best practices: 
 
-If you know how to use GitHub and Asciidoc, then you're pretty much ready to go! 
-You can go straight to our Guidelines Page, and make use of our Sample Document for pre-made snippets of asciidoc formatting for links, footnotes, admoitions, etc. 
-
-However, most of us don't know GitHub or Asciidoc.
-For you we have some extra links to help you get started. 
-
-== It's not that bad, really.
-
-In advance, let us ask you not to be discouraged by any learning curve! 
-It's not that bad, really!
-If you want to help by contributing your expertise to this project then you're a patriot for Liberty and Justice for All.
-
-Our struggles are not yet as bad as the ones our ancestors fought against opression by slavery, Nazis, Mad Kings and Emperors. 
-Hopefully learning a few new skills will be a price you are willing to pay. 
-And you can reach out to us for help as we'll explain a few lines down. 
-
-== The Basic Envrionment
-
-The first thing is to understand how you are viewing this page. 
-There are two different ways to view it: 1) the Wiki is for the public to see and discuss and understand; 2) GitHub is the way for people to edit and add. 
-
-If you are viewing this page from link:https://projectliberty2029.github.io/["our Wiki, ", window=read-later,opts="noopener,nofollow"], then there's a pretty red bar with three buttons at the top of your screen, and the first of those buttons invites you to link:https://github.com/projectliberty2029/projectliberty2029.github.io/["Help Improve This On GitHub.", window=read-later,opts="noopener,nofollow"]
-
-You may have arrived at this page through GitHub itself, in which case you're already viewing the link:https://github.com/projectliberty2029/projectliberty2029.github.io/["very technical looking GitHub interface.", window=read-later,opts="noopener,nofollow"] 
-
-To make edits and changes, you'll be working in the GitHub interface. 
-
-== Why GitHub? 
-
-We chose GitHub because it is designed for large-scale development with very granular changed tracking and robust security tools. 
-These have been road-tested in at-scale industries which are under state-level attack. 
-
-This security hardening and detailed tracking advantages bring with them the disadvantage of complexity. 
+. Type one line per sentence. 
+.. Use "Soft Wrap" to make this easier. 
+. See <</Page_Draft_Status.adoc#,Page Draft Status Guidelines>> for how to fill in the front-matter attribute for :page-draft_complete:
+. See <</content/Contributing/060_Sample_Document.adoc#,the Sample Document for explanations of the Asciidoctor Front Matter.>>
+. See <</content/Stages_Defined.adoc#,the Stages Defined >>for an explanation of which Stage of Struggle your document may relate to.
+.. If you do not need your document to show in Stages of Struggle -- for example, it may be a subdocument, like this one -- then put "NoShow" for the :page-stage: front matter attribute. 
+.. To control what order your page appears in any given stage, name the filename with the appropriate number: those sections sort by the name of the file.  
+. If including images or figures, wherever possible include an image title. 
 
 == How to get started?
 
 Easing that complexity is the goal of this set of documents: 
 
+<</content/Contributing/010_Getting_Started_Helping.adoc#,Getting Started Contributing.>>
+
 <</content/Contributing/020_Overview_Of_The_Environment.adoc#,Overview of the GitHub-to-Wiki environment.>>
 
-<</content/Contributing/030_How_To_Add_Or_Edit_Pages.adoc#,How to Add or Edit Pages and get them Approved.>>
+<</content/Contributing/020_Overview_Of_The_Environment.adoc#,Overview of the Environment.>>
 
-<</content/Contributing/050_Sample_Document.adoc#,A Sample Document to Copy and Modify.>>
+<</content/Contributing/030_How_To_Add_Or_Edit_Pages.adoc#,Adding and Editing Pages on GitHub.>>
 
-<</content/Contributing/060_FAQ.adoc#,FAQ: Frequently Asked Questions, and how to get more Help.>>
+<</content/Contributing/040_How_To_Publish_Your_Edits.adoc#,How to Publish Your Contributions.>>
+
+(This document: Guidelines and Standards for Pages.)
+
+<</content/Contributing/060_Sample_Document.adoc#,A Sample Document to Copy and Modify.>>
+
+<</content/Contributing/070_FAQ.adoc#,FAQ: Frequently Asked Questions, and how to get more Help.>>
 
 There is also a link:https://www.reddit.com/r/ProjectLiberty2029/["subreddit for discussion and support.", window=read-later,opts="noopener,nofollow"] 
