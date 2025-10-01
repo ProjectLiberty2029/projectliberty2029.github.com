@@ -63,3 +63,5 @@ Easing that complexity is the goal of this set of documents:
 <</content/Contributing/050_Sample_Document.adoc#,A Sample Document to Copy and Modify.>>
 
 <</content/Contributing/060_FAQ.adoc#,FAQ: Frequently Asked Questions, and how to get more Help.>>
+
+There is also a link:https://www.reddit.com/r/ProjectLiberty2029/["subreddit for discussion and support.", window=read-later,opts="noopener,nofollow"] 
