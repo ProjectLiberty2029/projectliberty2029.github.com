@@ -15,13 +15,17 @@ This page will need FAQs.
 
 Here are the other documents in this suite of docs for helping to on-board contributors. 
 
-<</content/Contributing/030_How_To_Add_Or_Edit_Pages.adoc#,How to Add or Edit Pages and get them Approved.>>
+<</content/Contributing/010_Getting_Started_Helping.adoc#,Getting Started Contributing.>>
 
-<</content/Contributing/040_Guidelines_for_Pages.adoc#,Guidelines and Standards for Pages.>>
+<</content/Contributing/020_Overview_Of_The_Environment.adoc#,Overview of the Environment.>>
 
-<</content/Contributing/050_Sample_Document.adoc#,A Sample Document to Copy and Modify.>>
+<</content/Contributing/030_How_To_Add_Or_Edit_Pages.adoc#,Adding and Editing Pages on GitHub.>>
 
-<</content/Contributing/060_FAQ.adoc#,FAQ: Frequently Asked Questions, and how to get more Help.>>
+<</content/Contributing/040_How_To_Publish_Your_Edits.adoc#,How to Publish Your Contributions.>>
+
+<</content/Contributing/050_Guidelines_for_Pages.adoc#,Guidelines and Standards for Pages.>>
+
+<</content/Contributing/060_Sample_Document.adoc#,A Sample Document to Copy and Modify.>>
 
 There is also a link:https://www.reddit.com/r/ProjectLiberty2029/["subreddit for discussion and support.", window=read-later,opts="noopener,nofollow"] 
 
