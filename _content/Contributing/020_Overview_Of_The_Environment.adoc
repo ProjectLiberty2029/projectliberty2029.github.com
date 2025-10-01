@@ -3,9 +3,9 @@
 :page-authors: Vector Hasting
 :table-caption: Data Set
 :imagesdir: /Media/Images/
-:page-draft_complete: 75%
+:page-draft_complete: 25%
 :page-stage: NoShow
-:page-todos: Organize, organize, organize, KISS
+:page-todos: Continue this in Desktop mode, Organize, organize, KISS
 :showtitle:
 
 = Overview
@@ -24,10 +24,75 @@ Security is the main reason for using GitHub over other platforms.
 For example, MediaWiki is the software that drives Wikipedia, but it must be set up on a server, which means having the strength to resist attacks by all manner of opponents to ProjectLiberty2029 becomes an issue. 
 is a possible alternative, but that is a suite of software that would need to be hosted, and that hosting raises the issues of security against large-scale attacks. 
 
-
-== Workflow Overview
+== Hosting Overview
 
 Project Liberty 2029 Wiki is hosted on GitHub. 
+
+GitHub the name comes from "Git" the software protocol, which is a suite of tools developed by and for computer programmers to help them manage large and distributed software development projects. 
+
+GitHub provides hosting under the name GitHub Pages. 
+These are "static" website pages, meaning they do not allow programs to run on the website to provide things like product lookups, or pricing calculators, etc.
+They do this to keep their system secure and scalable. 
+
+Website pages are sent to people's internet browsers using what is called HTML, which stands for "Hyper-Text Markup Language."
+HTML is so cumbersom for humans to write, that we have a whole separate set of programs to write it for us. 
+But that means we need to write in a format that the converters can read. 
+
+The most widely used input format is Asciidoc. 
+
+One would think that converters would be set up to take Word, Google Docs, LibreOffice, etc, file formats, but they do not for reasons beyond this text. 
+One would also think that Word, Google Docs, LibreOffice, etc, could write Asciidoc files (since they can write html). 
+Sadly, this is not the case. 
+
+Therefore, we have set up ProjectLiberty2029's GitHub Actions to create the HTML files from asciidoc input files. 
+The program that does this conversion is called Jekyll. 
+Jekyll not only reads and processes the instructions on our pages that are written in Asciidoc, but it also reads a programming language called Liquid. 
+
+Fortunately, the only thing you will need to know as a contributor is how to write in Asciidoc. 
+
+== Workflow Requirements
+
+We have two main requirements: 1) clarity, and 2) credibility. 
+
+=== Clarity requirement
+
+For Clarity, we will want to present to the world straighforward legislation and proposals which are a simple as possible for the task at hand of restoring Liberty and Justice in America.
+
+In order to do that, we are choosing the simplest project history format: "linear commit history." 
+
+The only word in that phrase that may be unfamiliar is the word 'commit.'
+
+A commit has two meanings here: 1) it is a single save point of a document, and 2) it is a collection of save points. 
+
+What you will notice working in GitHub on the Website interface, is that every time you want to "save" a document, you must "Commit Changes" and give a text explanation of what you were changing. 
+
+If you work in GitHub Desktop, you will be able to simultaneously change many files, and save them without making a commit. 
+Then you make a single "commit" for all those changes together. 
+
+== Credibility requirement
+
+For Credibility, we will need to be sure our processes are secure from bad-actors making unauthorized changes. 
+
+Therefore we will require a small group of maintainers to make digitally signed commits to the main branch of the ProjectLiberty2029 project. 
+
+We will not require digitally signed commits from Contributors, because the process is onerous. 
+(It requires several command line steps to setup the necessary encryption keys, and then ongoing command line processes to make linear commits to the main branch.)
+
+
+
+
+== How to Write in Asciidoc?
+
+
+
+== Workaround for learning Asciidoc
+
+There is link:https://github.com/admin-shell-io/word2asciidoc/issues/new?template=transform-word-to-asciidoc-issue.yml["an online converter that may convert Word documents to Asciidoc,", window=read-later,opts="noopener,nofollow"] but results have not been tested. 
+
+
+Our workflow will involve adding and changing documents. 
+These documents are written in what is known as Asciidoc Markdown Language. 
+
 
 GitHub provides a workflow that lets us copy-over or copy-down existing documents, modify, push-up (if we copied down, or if we created a new document locally), and finally request pull-back into the master version. 
 
@@ -36,6 +101,11 @@ All changes are automagically documented line-by-line with what was changed and 
 At the end, that permanent line-by-line record of the changes that were made. 
 
 In many ways it is an ideal crowd-sourced legislative amendment environment. 
+
+== Workflow overview
+
+
+In order to maintain 
 
 Because the 'work' of making changes & additions is meant to be done separate from the master version of the project, most people do this work 'locally,' meaning on their computer. 
 
