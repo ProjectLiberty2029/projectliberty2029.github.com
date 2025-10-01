@@ -11,6 +11,7 @@
 = Overview
 
 This page will need FAQs. 
+
 == Next Step Resources: 
 
 Here are the other documents in this suite of docs for helping to on-board contributors. 
@@ -26,6 +27,8 @@ Here are the other documents in this suite of docs for helping to on-board contr
 <</content/Contributing/050_Guidelines_for_Pages.adoc#,Guidelines and Standards for Pages.>>
 
 <</content/Contributing/060_Sample_Document.adoc#,A Sample Document to Copy and Modify.>>
+
+(This document: FAQ: Frequently Asked Questions, and how to get more Help.)
 
 There is also a link:https://www.reddit.com/r/ProjectLiberty2029/["subreddit for discussion and support.", window=read-later,opts="noopener,nofollow"] 
 
