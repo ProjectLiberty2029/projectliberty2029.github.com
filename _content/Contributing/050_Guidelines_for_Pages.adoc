@@ -31,8 +31,6 @@ Easing that complexity is the goal of this set of documents:
 
 <</content/Contributing/010_Getting_Started_Helping.adoc#,Getting Started Contributing.>>
 
-<</content/Contributing/020_Overview_Of_The_Environment.adoc#,Overview of the GitHub-to-Wiki environment.>>
-
 <</content/Contributing/020_Overview_Of_The_Environment.adoc#,Overview of the Environment.>>
 
 <</content/Contributing/030_How_To_Add_Or_Edit_Pages.adoc#,Adding and Editing Pages on GitHub.>>
