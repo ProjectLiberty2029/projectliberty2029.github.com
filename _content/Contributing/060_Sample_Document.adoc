@@ -1,4 +1,4 @@
-= If You Want to Help: Getting Started
+= Sample Document
 :doctype: book
 :page-authors: Vector Hasting
 :table-caption: Data Set
