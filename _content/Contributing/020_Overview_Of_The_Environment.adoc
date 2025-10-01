@@ -1,4 +1,4 @@
-= If You Want to Help: Getting Started
+= Overview of the Environment
 :doctype: book
 :page-authors: Vector Hasting
 :table-caption: Data Set
@@ -146,6 +146,8 @@ If you know markdown, you can use it, because asciidoc includes it.
 == Next Step Resources: 
 
 Here are the other documents in this suite of docs for helping to on-board contributors. 
+
+<</content/Contributing/010_Getting_Started_Helping.adoc#,Getting Started Contributing.>>
 
 <</content/Contributing/030_How_To_Add_Or_Edit_Pages.adoc#,How to Add or Edit Pages and get them Approved.>>
 
