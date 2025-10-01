@@ -1,11 +1,11 @@
- If You Want to Help: Getting Started
+= Guidelines and Standards for Pages.
 :doctype: book
 :page-authors: Vector Hasting
 :table-caption: Data Set
 :imagesdir: /Media/Images/
-:page-draft_complete: 25%
+:page-draft_complete: 0%
 :page-stage: 00
-:page-todos: Organize, organize, organize, KISS
+:page-todos: This is just a copy of 010, write this page
 :showtitle:
 
 = Overview
