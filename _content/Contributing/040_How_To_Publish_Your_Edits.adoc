@@ -1,0 +1,53 @@
+= How to Publish Your Contributions.
+:doctype: book
+:page-authors: Vector Hasting
+:table-caption: Data Set
+:imagesdir: /Media/Images/
+:page-draft_complete: 0%
+:page-stage: NoShow
+:page-todos: Add the basic content indicated below in the text. We'll want screenshots of the interfaces.  Organize, organize, organize, KISS
+:showtitle:
+
+= How to Publish Your Contributions
+
+There are two ways you may be working: 1) using only GitHub Web Interface, or 2) Using GitHub Desktop (or command lines and local repositories).
+
+== Using Only GitHub Web
+
+The process involves:
+
+. Give the steps to committing the changes
+. Give steps to creating the pull request
+. Explain how to monitor the conversation.
+. Explain what to do if changes are needed. 
+
+== Using GitHub Desktop 
+
+The process involves:
+
+. Give the steps to committing the changes
+. Give steps to creating the pull request
+. Be careful to explain how the push to origin works from GitHub Desktop
+. Give the extra steps (if any) on the web interface to make the pull request.
+. Explain how to monitor the conversation.
+. Explain what to do if changes are needed. 
+
+== Next Step Resources: 
+
+Here are the other documents in this suite of docs for helping to on-board contributors. 
+
+<</content/Contributing/030_How_To_Add_Or_Edit_Pages.adoc#,How to Add or Edit Pages.>>
+
+<</content/Contributing/040_How_To_Publish_Your_Edits.adoc#,How to Publish Your Contributions.>>
+
+<</content/Contributing/050_Guidelines_for_Pages.adoc#,Guidelines and Standards for Pages.>>
+
+<</content/Contributing/060_Sample_Document.adoc#,A Sample Document to Copy and Modify.>>
+
+<</content/Contributing/070_FAQ.adoc#,FAQ: Frequently Asked Questions, and how to get more Help.>>
+
+There is also a link:https://www.reddit.com/r/ProjectLiberty2029/["subreddit for discussion and support.", window=read-later,opts="noopener,nofollow"] 
+
+
+
+
