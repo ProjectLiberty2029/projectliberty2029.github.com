@@ -1,0 +1,269 @@
+= If You Want to Help: Getting Started
+:doctype: book
+:page-authors: Vector Hasting
+:table-caption: Data Set
+:imagesdir: /Media/Images/
+:page-draft_complete: 75%
+:page-stage: NoShow
+:page-todos: Organize, organize, organize, KISS
+:showtitle:
+
+= Overview
+
+This page explains in a non-technical way the overall software environment within which this project works. 
+This is meant to help inform those helping out as to why things are happening the way the are happening. 
+
+Reading this document isn't necessary to your contributing, but it might help ease any learning curve. 
+
+== GitHub vs. Other Wiki sites. 
+
+We chose GitHub because it is designed for large-scale development with very granular changed tracking and robust security tools. 
+These have been road-tested in at-scale industries which are under continual attack by not only individuals but state-level actors.
+
+Security is the main reason for using GitHub over other platforms. 
+For example, MediaWiki is the software that drives Wikipedia, but it must be set up on a server, which means having the strength to resist attacks by all manner of opponents to ProjectLiberty2029 becomes an issue. 
+is a possible alternative, but that is a suite of software that would need to be hosted, and that hosting raises the issues of security against large-scale attacks. 
+
+
+== Workflow Overview
+
+Project Liberty 2029 Wiki is hosted on GitHub. 
+
+GitHub provides a workflow that lets us copy-over or copy-down existing documents, modify, push-up (if we copied down, or if we created a new document locally), and finally request pull-back into the master version. 
+
+The all-important pull-back/into stage allows for robust discussion by a group before making the changes.  
+All changes are automagically documented line-by-line with what was changed and added. 
+At the end, that permanent line-by-line record of the changes that were made. 
+
+In many ways it is an ideal crowd-sourced legislative amendment environment. 
+
+Because the 'work' of making changes & additions is meant to be done separate from the master version of the project, most people do this work 'locally,' meaning on their computer. 
+
+GitHub offers a "GitHub Desktop" program that allows us to avoid using command-line work, and do our processes with button-pushing instead. 
+This program is tightly integrated with VS Code.
+These things mean that the context for this and other how-to documents will be working inside VS Code.
+
+If you very much do not want to learn VS Code (it is, indeed, a mouthful of learning) you can work inside any text editor. 
+Be careful if using a program like Word or Open Office or on-line editors like Google-docs, et. al, because they will add formatting information to their output that will mess-up this workflow. 
+When using those programs, look for an asciidoc output or a plain text output. 
+
+We have been using and encourage you to use .adoc as the extension on your filenames. 
+This signals the programs to read it with asciidoc syntax. 
+There are many other extensions that will also work including .ad, .asc, and .asciidoc. 
+
+== Processing Overview 
+
+Once any change or set of changes are pulled over to the main branch of ProjectLiberty2029, any asciidoc files included will be used by a GitHub Actions stack of programs to write the final html files that the rest of the world can see. 
+
+Most of what we will be modifying will be these asciidocs, because they contain the words we are communicating to the world on how to restore and re-secure Freedom and Justice to America. 
+
+=== Why asciidoc?
+
+This may have been your first question, but it needed this much explanation to understand the answer. 
+
+Because we are passing documents with changes back and forth, we need a very standardized format so that computers can readily figure out for us what exactly has changed. 
+
+Ever gotten a rental agreement or employment contract back after a discussion and you're wondering where in there it might have been changed?! 
+This standard document form and GitHub insure that we're all informed as to what is changing. 
+
+The industry standard tool for this is Asciidoc. 
+There are a ton of videos and courses on it.
+Librarians use it. 
+So if you need help, there are plenty of resources for learning it. 
+
+If you know markdown, you can use it, because asciidoc includes it. 
+
+== Next Step Resources: 
+
+Here are the other documents in this suite of docs for helping to on-board contributors. 
+
+<</content/Contributing/030_How_To_Add_Or_Edit_Pages.adoc#,How to Add or Edit Pages and get them Approved.>>
+
+<</content/Contributing/040_Guidelines_for_Pages.adoc#,Guidelines and Standards for Pages.>>
+
+<</content/Contributing/050_Sample_Document.adoc#,A Sample Document to Copy and Modify.>>
+
+<</content/Contributing/060_FAQ.adoc#,FAQ: Frequently Asked Questions, and how to get more Help.>>
+
+There is also a link:https://www.reddit.com/r/ProjectLiberty2029/["subreddit for discussion and support.", window=read-later,opts="noopener,nofollow"] 
+
+= Asciidoc basics: 
+
+== Front matter
+
+All Asciidocs must start with an = followed by the Document Title. In this document, that looks like = Sample Document
+
+The very next line begins a bunch of special words that are in the form of :showtitle: or :page-authors: and so forth. 
+These are called *document attributes.*
+
+All the documents in this project should have at least the document attributes included with this document with one exception. 
+That exception is the :showtitle: attribute: it is a personal preference whether you want it to display at the top of your pages. 
+However, because the '= Document Title' _is still required,_ it will always display on the Wiki homepage. 
+
+Here are the other document attributes and what they do for us: 
+
+. Static-do not change or it will break something:
+.. :doctype: book ... This is needed to insure the formatting works as expected. 
+.. :table-caption: Data Set ... This allows the pages to display captions on tables. 
+.. :imagesdir: /Media/Images/ ... This allows the website to find any images we are hosting. It also tells you where to put images you wish to add. You can add sub-directories for images and you'll find examples of that in this document. 
+. Things you are meant to change: 
+. :page-draft_complete: ... Valid values are 0%, 25%, 50%, 75% and 100% and <</Page_Draft_Status.adoc#,are defined here.>> This status appears in the upper left-hand corner of the page when displayed on a computer. Phones do not display this panel, unless you switch to desktop mode. 
+. :page-stage: ... Valid values are 0 through 10 and <</Stages_Defined.adoc#,are described here.>> These stages will cause the document to automatically appear in the "Staged Needs" section of the index page. 
+. :page-authors: ... Here you can let us know who you are so the community knows who ask questions. This can be any text, and you can leave it blank. If included, this displays in the left-hand pane under the table of contents. Phones do not display this panel, unless you switch to desktop mode. 
+.. :page-todos: ... Here you can type any text to indicate the next steps needed for your document. It appears in the left hand pane under the 
+.. :showtitle: ... If this attribute is present, the document title displays at the top. If you remove it, the document title will not display on the page, but the homepage will still show the document title in the clickable list of all documents. 
+
+= H1: Overall:
+
+Our movement against the MAGA regime must say _what we are for,_ not just what we are *against.*
+
+We must be specific… policy proposals are coming soon… for now, please consider the messages in these lyrics. 
+
+Here are the special Fair and Share Tax Glyphs:       
+
+== H2: General Formatting
+
+Text can be *bold*, _italic_, or [.line-through]#strikethrough#.
+
+This is a link to <</content/Executive_Actions/DOGE_to_ROLA.adoc#,DOGE to ROLA,>> which is in a different folder.
+This link opens in the same tab.
+
+This is a link to <</Page_Draft_Status.adoc#,Page Draft Status,>> which is in the same folder. 
+This link opens in the same tab. 
+
+This is a link to link:https://constitution.congress.gov/constitution/amendment-12/["the 12th Amendment to the US Constitution.", window=read-later,opts="noopener,nofollow"]
+This link opens in a new tab. 
+
+Here are the special Fair and Share Tax Glyphs:       
+
+Asciidoc recommends putting one sentence on one line. In other words, don't use return when writing your text, no matter how long your sentence is going to be (and set your editor settings to show wrapping lines, since otherwise you'll have to chase looong sentences all the way across in your authoring software), and then just use a linefeed once for the end of a sentence, and twice for the end of a paragraph. 
+See link:this page for 
+
+== H2 Special Asciidoc:
+
+=== H3 How to Comment:
+
+What follows is a comment that does not appear: (This is done by beginning a line with two // )
+
+// This line does not appear.
+
+What follows is a block of lines that do not appear. (This is done with four //// at the beginning of the first line and at the beginning of the line after the last block-comment.)
+////
+A block
+of lines that do not
+appear. 
+////
+
+This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+
+=== H3 Note! Admonitions!
+
+
+
+> This is a blockquote following a header.
+>
+> When something is important enough, you do it even if the odds are not in your favor.
+
+==== Header 4
+
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
+
+===== Header 5
+
+1.  This is an ordered list following a header.
+2.  This is an ordered list following a header.
+3.  This is an ordered list following a header.
+
+====== Header 6 (table)
+This is a table:
+
+.Mmm good things
+[cols="1,2,1"]
+|===
+|Head1 | Heading number two | Col 3
+
+| ok
+| good swedish fish
+| nice
+
+| out of stock 
+| good and plenty 
+| nice  
+
+| ok
+| good [red]#oreos#
+| hmm
+
+| ok
+| good [.yellow-background]#zoute# drop 
+| yumm 
+
+|===
+
+=== There's a horizontal rule below this.
+
+* * *
+
+=== Here is an unordered list:
+
+*   Item foo
+*   Item bar
+*   Item baz
+*   Item zip
+
+=== And an ordered list:
+
+.  Item one
+.  Item two
+.  Item three
+.  Item four
+
+=== And a nested list:
+
+- level 1 item
+  - level 2 item
+  - level 2 item
+    - level 3 item
+    - level 3 item
+- level 1 item
+  - level 2 item
+  - level 2 item
+  - level 2 item
+- level 1 item
+  - level 2 item
+  - level 2 item
+- level 1 item
+
+=== An image from Root
+Default size: (note that you need a blank after this text or the image will not display)
+
+image::by-sa.png["CC BY-SA, the Deed Icon"]
+
+Failure to display an image
+image::by-sa.png["CC BY-SA, the Deed Icon"]
+
+Override size:
+
+image::by-sa.png["CC BY-SA, the Deed Icon", 200, 100]
+
+Caption:
+
+.CC: BY-SA Deed:
+image::by-sa.png["CC BY-SA, the Deed Icon", 200, 100]
+
+=== An image not from Root
+
+image::Icons/ShareOnBlur150.png[Liberty Torch on Blurred Flag]
+
+
+=== Definition lists
+
+Asciidoc syntax:
+
+Name:: Godzilla
+Born:: 1952
+Birthplace:: Japan
+Color:: Green
+
