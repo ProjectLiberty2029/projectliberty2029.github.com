@@ -1,4 +1,4 @@
-= Sample Document
+= A Sample Document to Copy and Modify
 :doctype: book
 :page-authors: Vector Hasting
 :table-caption: Data Set
